@@ -1,3 +1,19 @@
+## Personal notes ##
+
+### Day 1
+Drumkit was interesting, loving the power that JS has. Tempted to use Vue for some of it. So sick over the weekend that I pretty much just slept for 2 days - seasonal cold.
+
+### Day 2, 3 & 4
+Spent the last 3 days at the QLD gov eHealth Hackathon. Pretty fantastic. Great team that I was in and great event. Sadly we did not place, which honestly surprised me (bias aside - I felt the product was awesome, was tested and proven and our presentation was killer)
+
+### Day 5
+Crazy day of running around with 3 meetings today. Feeling like I'm on the final day of being sick. Breating better, hardly coughing. Feels good!
+Looked over the Day2 challenge. Without watching vid it doesn't look too bad. Using a function to perform a translation on a div to give it rotation. Now to do it.
+My phone data is going to go over I think. Need to scope out a new plan I think.
+
+
+
+
 ![](https://javascript30.com/images/JS3-social-share.png)
 
 # JavaScript30
